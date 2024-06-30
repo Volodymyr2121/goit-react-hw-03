@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+        flex-direction: column;
+}
+.wrapper{
+    display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 400px;
+}
+
+Form button{
+        margin-top: 10px;
+        width: 120px;
+}
+.message{
+    color: red;
+}
+
+Form{
+    border: 2px solid black;
+    width: 320px;
+    align-items: center;
+    padding: 12px;
+    margin-bottom: 16px;
+}
